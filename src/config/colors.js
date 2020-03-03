@@ -1,8 +1,8 @@
-export const primaryColor = '#018891';
-export const primaryDarkColor = '#282423';
+export const primaryColor = '#7a2a98';
+export const primaryDarkColor = '#2d233c';
 
-export const successColor = '#094e6b';
-export const infoColor = '#bdd4de';
-export const errorColor = '#f87651';
-export const warningColor = '#f87651';
-export const buttonColor = '#f87651';
+export const successColor = '#01bef8';
+export const infoColor = '#01bef8';
+export const errorColor = '#fe0000';
+export const warningColor = '#fe0000';
+export const buttonColor = '#7a2a98';
